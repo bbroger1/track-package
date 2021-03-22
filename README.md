@@ -10,9 +10,13 @@ API para rastreio de encomendas no correio
     > "_": "track_package",
     > "track_package": "YOUR TRACKING CODE HERE"
 
-##### Exemplo de requisição usando o postman
+##### Exemplo de requisição usando o postman:
 
 ![RequisicaoRota](https://i.imgur.com/DcaBPCT.png)
+
+##### Retorno:
+
+![RetornoRota](https://i.imgur.com/U1uKgMH.png)
 
 #### Link da API: https://rastreio-correios-api.herokuapp.com/
 
